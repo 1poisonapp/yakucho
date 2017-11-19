@@ -10,7 +10,7 @@
     },
     {
       "name": "감수",
-      "poison": "水",
+      "poison": "s",
       "type": "p",
       "na": "甘遂",
       "ename": "Kansui Root",
@@ -18,7 +18,7 @@
     },
     {
       "name": "감초",
-      "poison": "攣",
+      "poison": "r",
       "type": "s",
       "na": "甘草",
       "ename": "Licorice Root",
@@ -26,7 +26,7 @@
     },
     {
       "name": "건강",
-      "poison": "煩",
+      "poison": "s",
       "type": "w",
       "na": "乾薑",
       "ename": "Dry Ginger",
@@ -34,7 +34,7 @@
     },
     {
       "name": "계지",
-      "poison": "衝",
+      "poison": "c",
       "type": "s",
       "na": "桂枝",
       "ename": "Cassia Twig",
@@ -42,7 +42,7 @@
     },
     {
       "name": "과루실",
-      "poison": "心胸/痰飮",
+      "poison": "da",
       "type": "p",
       "na": "栝蔞實",
       "ename": "Snakegourd Fruit",
@@ -58,7 +58,7 @@
     },
     {
       "name": "교이",
-      "poison": "燥",
+      "poison": "",
       "type": "s",
       "na": "膠飴",
       "ename": "Barley Malt Sugar/ Maltose",
@@ -66,7 +66,7 @@
     },
     {
       "name": "귤피",
-      "poison": "心胸/痰飮",
+      "poison": "da",
       "type": "",
       "na": "橘皮",
       "ename": "Tangerine Peel",
@@ -74,7 +74,7 @@
     },
     {
       "name": "길경",
-      "poison": "心胸",
+      "poison": "",
       "type": "f",
       "na": "桔梗",
       "ename": "Balloon Flower Root",
@@ -82,7 +82,7 @@
     },
     {
       "name": "당귀",
-      "poison": "",
+      "poison": "h",
       "type": "",
       "na": "當歸",
       "ename": "Angelica Sinensis",
@@ -90,7 +90,7 @@
     },
     {
       "name": "대극",
-      "poison": "煩",
+      "poison": "s",
       "type": "p",
       "na": "大戟",
       "ename": "Euphorbia pekinensis/Peking spurge",
@@ -98,7 +98,7 @@
     },
     {
       "name": "대조",
-      "poison": "攣",
+      "poison": "r",
       "type": "s",
       "na": "大棗",
       "ename": "Fructus Jujubae",
@@ -106,7 +106,7 @@
     },
     {
       "name": "대황",
-      "poison": "結",
+      "poison": "k",
       "type": "p",
       "na": "大黃",
       "ename": "Rhubarb",
@@ -114,7 +114,7 @@
     },
     {
       "name": "도인",
-      "poison": "瘀血",
+      "poison": "h",
       "type": "s",
       "na": "桃仁",
       "ename": "Peach Seed",
@@ -122,7 +122,7 @@
     },
     {
       "name": "마황",
-      "poison": "水",
+      "poison": "s",
       "type": "f",
       "na": "麻黃",
       "ename": "Ephedra",
@@ -130,7 +130,7 @@
     },
     {
       "name": "망초",
-      "poison": "結",
+      "poison": "k",
       "type": "w",
       "na": "芒硝",
       "ename": "Mirabilite",
@@ -138,7 +138,7 @@
     },
     {
       "name": "모려",
-      "poison": "動",
+      "poison": "do",
       "type": "",
       "na": "牡蠣",
       "ename": "Oyster Shell",
@@ -146,7 +146,7 @@
     },
     {
       "name": "목단피",
-      "poison": "",
+      "poison": "h",
       "type": "",
       "na": "牧丹皮",
       "ename": "Peony Bark",
@@ -154,7 +154,7 @@
     },
     {
       "name": "봉밀",
-      "poison": "結",
+      "poison": "k",
       "type": "",
       "na": "蜜",
       "ename": "Honey",
@@ -162,7 +162,7 @@
     },
     {
       "name": "반하",
-      "poison": "心胸/痰飮",
+      "poison": "da",
       "type": "w",
       "na": "半夏",
       "ename": "Pinellia Tuber",
@@ -170,7 +170,7 @@
     },
     {
       "name": "방기",
-      "poison": "水",
+      "poison": "s",
       "type": "",
       "na": "防己",
       "ename": "Fourstamen Stephania Root",
@@ -186,7 +186,7 @@
     },
     {
       "name": "복령",
-      "poison": "悸",
+      "poison": "g",
       "type": "s",
       "na": "茯苓",
       "ename": "Poria",
@@ -194,7 +194,7 @@
     },
     {
       "name": "부자",
-      "poison": "水",
+      "poison": "s",
       "type": "w",
       "na": "附子",
       "ename": "Aconite Root",
@@ -202,7 +202,7 @@
     },
     {
       "name": "산조인",
-      "poison": "煩",
+      "poison": "b",
       "type": "",
       "na": "酸棗仁",
       "ename": "Spina Date Seed",
@@ -210,7 +210,7 @@
     },
     {
       "name": "생강",
-      "poison": "逆",
+      "poison": "c",
       "type": "w",
       "na": "生薑",
       "ename": "Ginger",
@@ -218,7 +218,7 @@
     },
     {
       "name": "석고",
-      "poison": "煩",
+      "poison": "b",
       "type": "",
       "na": "石膏",
       "ename": "Gypsum",
@@ -234,7 +234,7 @@
     },
     {
       "name": "세신",
-      "poison": "水",
+      "poison": "s",
       "type": "",
       "na": "細辛",
       "ename": "Manchurian Wildginger",
@@ -242,7 +242,7 @@
     },
     {
       "name": "수질",
-      "poison": "血",
+      "poison": "h",
       "type": "",
       "na": "水蛭",
       "ename": "Hirudo Medicinalis",
@@ -250,7 +250,7 @@
     },
     {
       "name": "시호",
-      "poison": "心胸",
+      "poison": "b",
       "type": "s",
       "na": "柴胡",
       "ename": "Red Thorowax Root",
@@ -258,7 +258,7 @@
     },
     {
       "name": "아교",
-      "poison": "煩",
+      "poison": "b",
       "type": "s",
       "na": "阿膠",
       "ename": "Colla Corii Asini",
@@ -274,7 +274,7 @@
     },
     {
       "name": "오미자",
-      "poison": "水",
+      "poison": "s",
       "type": "",
       "na": "五味子",
       "ename": "Magnolia Vine Fruit",
@@ -282,7 +282,7 @@
     },
     {
       "name": "오수유",
-      "poison": "胸滿",
+      "poison": "ma",
       "type": "w",
       "na": "吳茱萸",
       "ename": "Evodia Fruit",
@@ -290,7 +290,7 @@
     },
     {
       "name": "용골",
-      "poison": "動",
+      "poison": "do",
       "type": "",
       "na": "龍骨",
       "ename": "Ossa Draconis",
@@ -298,7 +298,7 @@
     },
     {
       "name": "원화",
-      "poison": "",
+      "poison": "s",
       "type": "",
       "na": "芫花",
       "ename": "Genkwa Flower",
@@ -314,7 +314,7 @@
     },
     {
       "name": "인삼",
-      "poison": "結/煩",
+      "poison": "b",
       "type": "w",
       "na": "人蔘",
       "ename": "Ginseng",
@@ -330,7 +330,7 @@
     },
     {
       "name": "작약",
-      "poison": "結/攣",
+      "poison": "k",
       "type": "s",
       "na": "芍藥",
       "ename": "White Paeony Root",
@@ -338,7 +338,7 @@
     },
     {
       "name": "저령",
-      "poison": "水",
+      "poison": "s",
       "type": "",
       "na": "猪苓",
       "ename": "Polyporus Sclerotium",
@@ -346,7 +346,7 @@
     },
     {
       "name": "정력",
-      "poison": "結",
+      "poison": "k",
       "type": "",
       "na": "葶藶",
       "ename": "Lepidium Seed",
@@ -354,7 +354,7 @@
     },
     {
       "name": "지모",
-      "poison": "煩",
+      "poison": "b",
       "type": "p",
       "na": "知母",
       "ename": "Anemarrhena Rhizome",
@@ -362,7 +362,7 @@
     },
     {
       "name": "지실",
-      "poison": "結",
+      "poison": "k",
       "type": "",
       "na": "枳實",
       "ename": "Immature Bitter Orange",
@@ -370,7 +370,7 @@
     },
     {
       "name": "지황",
-      "poison": "血",
+      "poison": "h",
       "type": "p",
       "na": "地黃",
       "ename": "Rehmannia Root",
@@ -378,7 +378,7 @@
     },
     {
       "name": "천궁",
-      "poison": "",
+      "poison": "h",
       "type": "",
       "na": "川芎",
       "ename": "Szechuan Lovage",
@@ -386,7 +386,7 @@
     },
     {
       "name": "출",
-      "poison": "水",
+      "poison": "s",
       "type": "",
       "na": "朮",
       "ename": "Atractylodes",
@@ -394,7 +394,7 @@
     },
     {
       "name": "치자",
-      "poison": "煩",
+      "poison": "b",
       "type": "",
       "na": "梔子",
       "ename": "Cape Jasmine Fruit",
@@ -402,7 +402,7 @@
     },
     {
       "name": "택사",
-      "poison": "水",
+      "poison": "s",
       "type": "",
       "na": "澤瀉",
       "ename": "Water Plantain Rhizome",
@@ -410,7 +410,7 @@
     },
     {
       "name": "파두",
-      "poison": "",
+      "poison": "k",
       "type": "w",
       "na": "巴豆",
       "ename": "Croton Seed",
@@ -418,7 +418,7 @@
     },
     {
       "name": "패모",
-      "poison": "痰飮",
+      "poison": "da",
       "type": "",
       "na": "貝母",
       "ename": "Fritillaria Verticillata Bulb",
@@ -426,7 +426,7 @@
     },
     {
       "name": "향시",
-      "poison": "結",
+      "poison": "b",
       "type": "",
       "na": "香豉",
       "ename": "Fermented Soybean",
@@ -434,7 +434,7 @@
     },
     {
       "name": "해백",
-      "poison": "心胸",
+      "poison": "bi",
       "type": "",
       "na": "薤白",
       "ename": "Longstamen Onion Bulb",
@@ -442,7 +442,7 @@
     },
     {
       "name": "행인",
-      "poison": "結",
+      "poison": "s",
       "type": "f",
       "na": "杏仁",
       "ename": "Bitter Apricot Seed",
@@ -450,7 +450,7 @@
     },
     {
       "name": "활석",
-      "poison": "水",
+      "poison": "s",
       "type": "",
       "na": "滑石",
       "ename": "Talcum",
@@ -458,7 +458,7 @@
     },
     {
       "name": "황금",
-      "poison": "痞",
+      "poison": "bi",
       "type": "",
       "na": "黃芩",
       "ename": "Baical Skullcap Root",
@@ -466,7 +466,7 @@
     },
     {
       "name": "황기",
-      "poison": "水",
+      "poison": "s",
       "type": "",
       "na": "黃芪",
       "ename": "Astragalus Root",
@@ -474,7 +474,7 @@
     },
     {
       "name": "황련",
-      "poison": "煩",
+      "poison": "b",
       "type": "f",
       "na": "黃蓮",
       "ename": "Coptis Rhizome",
